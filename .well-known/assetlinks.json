@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.agomes.experiment",
+               "sha256_cert_fingerprints": ["08:1E:23:10:BB:FE:32:A0:E7:C0:9B:6A:FB:6C:25:FB:D3:7D:36:13:78:97:52:F2:FC:29:C9:D7:12:1A:21:21"] }
+}]
